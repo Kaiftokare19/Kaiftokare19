@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/kaif_tokare" target="blank"><img src="https://img.shields.io/twitter/follow/kaif_tokare?logo=twitter&style=for-the-badge" alt="kaif_tokare" /></a> </p>
 
-- 🔭 I’m currently working on [Staker.fun and it's Institutional Charity Platform](https://staker.fun/)
+- 🔭 I’m currently working at [Staker.fun and it's Institutional Charity Platform](https://staker.fun/)
 
 - 🌱 I’m currently learning **Web3, Defi, Rust, Anchor and more about Blockhain**
 
-- 👨‍💻 All of my projects are available at [Porfolio-Website](https://kaiftokare19.github.io/Portfolio-Website)
+- 👨‍💻 All of my projects are available at my [Porfolio-Website](https://kaiftokare19.github.io/Portfolio-Website)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I sometimes write articles on [Medium](Medium)
 
 - 💬 Ask me about **ML & DL models, React, Next, MongoDB, PowerBi, Java, Python**
 
-- 📫 How to reach me **kaiftokare19@gmail.com**
+- 📫 You to reach me via **kaiftokare19@gmail.com**
 
-- 📄 Know about my experiences from my  [Resume](https://drive.google.com/file/d/18n_40IXsyDcKVBWQBwGfu-GwNispzPjJ/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/18n_40IXsyDcKVBWQBwGfu-GwNispzPjJ/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact, that **I think I am decently funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
