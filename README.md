@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaif Tokare</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A B.Tech grad from AI ML now in the world of web3 learning and building new things everyday and excited to collaborate with poeple in web3 space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiftokare19&label=Profile%20views&color=0e75b6&style=flat" alt="kaiftokare19" /> </p>
 
@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Staker.fun and it's Institutional Charity Platform](https://staker.fun/)
 
-- 🌱 I’m currently learning **Web3, Defi and more about Blockhain**
+- 🌱 I’m currently learning **Web3, Defi, Rust, Anchor and more about Blockhain**
 
-- 👨‍💻 All of my projects are available at [https://kaiftokare19.github.io/Portfolio-Website](https://kaiftokare19.github.io/Portfolio-Website)
+- 👨‍💻 All of my projects are available at [Porfolio-Website](https://kaiftokare19.github.io/Portfolio-Website)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **React, Next, MongoDb, SQL, java, Python**
+- 💬 Ask me about **ML & DL models, React, Next, MongoDB, PowerBi, Java, Python**
 
 - 📫 How to reach me **kaiftokare19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18n_40IXsyDcKVBWQBwGfu-GwNispzPjJ/view?usp=sharing](https://drive.google.com/file/d/18n_40IXsyDcKVBWQBwGfu-GwNispzPjJ/view?usp=sharing)
+- 📄 Know about my experiences from my  [Resume](https://drive.google.com/file/d/18n_40IXsyDcKVBWQBwGfu-GwNispzPjJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
