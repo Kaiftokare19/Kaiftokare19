@@ -86,7 +86,7 @@ My work focuses on secure decentralized applications, smart contract development
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" />
+<img src="https://rust-lang.org/logos/rust-logo-128x128.png" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
