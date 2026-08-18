@@ -286,7 +286,7 @@ A deep learning system for detecting and segmenting retinal lesions from fundus 
 </a>
 
 <a href="https://linkedin.com/in/kaif-tokare-877538249">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" />
 </a>
 
 <a href="https://twitter.com/kaif_tokare">
